@@ -1,0 +1,4 @@
+1,Matematica
+2,Istorie
+3,Fizica
+4,Programare
