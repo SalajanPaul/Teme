@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1707150795 source:c:\programe\codeblocks projects\tema_1_si_2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<sstream>
+	<algorithm>
+
+1707151347 source:c:\programe\codeblocks projects\tema10\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<map>
+	<sstream>
+	<algorithm>
+
